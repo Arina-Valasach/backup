@@ -5,9 +5,3 @@ the 4th line (surprise-surpresa)
  side content
  i missed this dude
  mooore lines
-line from the branch
-and one more
-
-MASTER LINE
-BRANCH LINE
-646465
